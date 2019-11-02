@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+bm_env
+local.env
+/static
+/media
+/.idea
+.DS_Store
